@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TipCalc</string>
+    <string name="_20_tip">20% tip</string>
+    <string name="_15_tip">15% Tip</string>
+    <string name="enter_your_bill">Enter Your Bill</string>
+    <string name="number_goes_here">number goes here</string>
+</resources>
